@@ -3,7 +3,7 @@
   <br><br>
   <samp>
     :wave: Hi! I am a Computer Science Master Student.
-    <br>My current work focuses on Computer Graphics. :sparkles:<br><br>
+    <br>:sparkles:<br><br>
   </samp>
 </p>
 
