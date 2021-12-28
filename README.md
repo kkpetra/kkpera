@@ -8,6 +8,10 @@
 </p>
 
 <details>
-  <summary><b>:telescope: 2021 goal</b></summary>
-  Make my github contribution activity overview greener~~
+  <summary><b>:telescope: 2022 goal</b></summary>
+  - Code! Code! Code!
+  <br />
+  - Find a job
+  <br />
+  - Make friends with more people
 </details>
