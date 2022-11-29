@@ -6,12 +6,3 @@
     <br>:sparkles:<br><br>
   </samp>
 </p>
-
-<details>
-  <summary><b>:telescope: 2022 goal</b></summary>
-  - Code! Code! Code!
-  <br />
-  - Find a job
-  <br />
-  - Make friends with more people
-</details>
