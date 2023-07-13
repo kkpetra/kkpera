@@ -1,8 +1,14 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
-    :wave: Hi! I am a Computer Science Master Student.
-    <br>:sparkles:<br><br>
-  </samp>
-</p>
+## Petra Luo
+
+### 𝐇𝐞𝐥𝐥𝐨, 𝐰𝐨𝐫𝐥𝐝!
+
+#### 💗 I'm a computer science master's graduate(she/her) specializing in ML/CV/CG.
+
+#### 𝐍𝐨𝐰
+
+* 👩‍💻 Program and try to find a job
+
+#### 𝐁𝐢𝐨
+
+* 🇨🇳 2016 - 2020 Harbin Institute of Technology(shenzhen)
+* 🇰🇷 2021 - 2023 Korea University
