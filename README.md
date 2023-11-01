@@ -6,7 +6,7 @@
 
 #### 𝐍𝐨𝐰
 
-* 👩‍💻 Program and try to find a job
+* 👩‍💻 Enjoy life and try to find a job
 
 #### 𝐁𝐢𝐨
 
